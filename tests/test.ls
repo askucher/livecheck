@@ -23,5 +23,5 @@ parent-func-2 = (some-var)->
 
 parent-func-2 1 #success
 
-parent-func-2 {} #success
+parent-func-2 {} #fail
   
